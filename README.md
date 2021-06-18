@@ -1,2 +1,2 @@
 # games-py
-This repositori can help you to creat games on py ;)
+This repositori can help you to create games on py ;)
